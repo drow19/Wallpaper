@@ -6,8 +6,6 @@ Flutter wallpaper application
 source : https://www.pexels.com/api/
 
 ## Screenshot 
-![](images/home.jpg)
-
-![](images/category.jpg)
+![](images/home.jpg)  ![](images/category.jpg)
 
 ![](images/save.jpg)
